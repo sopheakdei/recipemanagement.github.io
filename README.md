@@ -1,1 +1,1 @@
-# recipemanagement.github.io
+# recipe.github.io
